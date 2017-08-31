@@ -1,14 +1,7 @@
 /* CSS Document */
 td {
     text-align: center;
-}
-
-table.foobar {
-	border-spacing: 5px;
-}
-
-table.foobar td{
-	border-spacing: 5px;
+	background-color: white;
 }
 
 @font-face {
