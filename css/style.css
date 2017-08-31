@@ -1,4 +1,7 @@
 /* CSS Document */
+td {
+    text-align: center;
+}
 @font-face {
     font-family: 'robotolight';
     src: url('../fonts/roboto-light.eot');
