@@ -2,6 +2,15 @@
 td {
     text-align: center;
 }
+
+table.foobar {
+	border-spacing: 5px;
+}
+
+table.foobar td{
+	border-spacing: 5px;
+}
+
 @font-face {
     font-family: 'robotolight';
     src: url('../fonts/roboto-light.eot');
