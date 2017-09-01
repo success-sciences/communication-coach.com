@@ -5,6 +5,10 @@ td {
 	width: 33.33%;
 }
 
+th, td {
+	padding: 20px;
+}
+
 @font-face {
     font-family: 'robotolight';
     src: url('../fonts/roboto-light.eot');
