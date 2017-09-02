@@ -159,7 +159,7 @@ body .affix{padding: 0px; -webkit-transition:padding 0.2s linear;
 footer{color: #4e5761; margin: 20px 0px;}
 .botlink a{color: #4e5761; padding-right:24px;}
 .copyrite a{padding-left: 20px;}
-#myCarousel .carousel-caption{bottom:50%; top:40%;font-family: 'robotolight'; font-size: 20px;}
+#myCarousel .carousel-caption{bottom:20%; top:20%;font-family: 'robotolight'; font-size: 20px;}
 #myCarousel .carousel-caption h2{font-size: 43px; padding: 5px 0px 56px;}
 #myCarousel .carousel-caption a{font-family: 'robotomedium'; font-size: 22px;background-color: #26298f; color: #fff; padding: 20px 96px; border-radius: 44px; text-decoration: none;}
 #myCarousel .carousel-caption a:hover{background-color: #3538a8;}
