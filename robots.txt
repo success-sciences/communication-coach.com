@@ -1,7 +1,5 @@
 User-Agent: *
 Disallow: 
-Disallow: /pdf/CCFlyer2019.pdf
-Disallow: /pdf/Why%20SSI.pdf
 Allow: /
 
 Sitemap: http://communication-coach.com/sitemap.xml
